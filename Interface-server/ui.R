@@ -1,6 +1,6 @@
 
 library(shiny)
-#
+
 datasets <- c("economics", "faithfuld", "seals")
   
 fluidPage(
