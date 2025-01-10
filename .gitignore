@@ -1,0 +1,16 @@
+# Ignorer les fichiers système et spécifiques à l'utilisateur
+.bash_history
+.eclipse/
+.gitconfig
+.ssh/
+Documents/
+Downloads/
+NTUSER.DAT*
+*.exe
+
+# Ignorer les fichiers spécifiques à RStudio
+
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
